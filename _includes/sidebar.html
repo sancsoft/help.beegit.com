@@ -1,5 +1,5 @@
 <ul class="sidebar">
-	{% for category in site.sorted_categories %}
+	{% for category in site.categories %}
     {% assign cat_name = (category | first) %}
   	<li class="category">{{ cat_name | capitalize }}</li>
 	    <ul>
