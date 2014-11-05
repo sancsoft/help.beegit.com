@@ -1,0 +1,10 @@
+# Site settings
+name: "Beegit Help"
+email: mike@beegit.com
+description: ""
+baseurl: ""
+url: "help.beegit.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
