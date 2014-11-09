@@ -12,7 +12,7 @@ tags:
 ---
 
 ## How do I delete a project? 
-If you are a project owner, you can delete a project by going to the Settings tab inside the project you wish to delete. The delete button is at the bottom of the settings. If you're sure you want to delete the project, you can select the red `Delete Project` button. You will be given one final chance to cancel before your project is deleted. Once a project is deleted, it will be erased permanently and will no longer be available to you or your collaborators. 
+If you are a project owner, you can delete your project by going to the Settings tab inside the project you wish to delete. The delete button is at the bottom of the settings. If you're sure you want to delete the project, you can select the red `Delete Project` button. You will be given one final option to cancel. Once a project is deleted, it will be erased permanently and will no longer be available to you or your collaborators. 
 
 ![Project Delete](https://s3.amazonaws.com/beegit-images/helpImages/project-delete.png)
 

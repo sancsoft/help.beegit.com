@@ -13,7 +13,7 @@ tags:
 ---
 
 ## What is Beegit?
-Beegit is a content-first project management solution for large and small teams. 
+Beegit is the content-first project management solution for large and small teams. 
 
 It helps users understand how their content team works and how it can work better by centralizing everything in one place, a collaborative web editor with light workflow tools. 
 

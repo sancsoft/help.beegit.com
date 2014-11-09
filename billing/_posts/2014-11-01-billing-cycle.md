@@ -12,6 +12,7 @@ tags:
 ---
 
 ## How does the billing cycle work? 
-Beegit charges valid credit cards on a monthly billing cycle. Once per month project owners will be charged $10 for their account and $10 each for their collaborators holding the user role of admin or editor.
+Beegit charges valid credit cards on a monthly billing cycle. Once per month, project owners will be charged $10 for their account and $10 each for their collaborators holding the user role of admin or editor.
 
-Users added during a billing cycle are pro-rated. Existing collaborators will be pro-rated from the day they are given the user role of admin or editor. New collaborators you invite to Beegit will be billed from the day they activate their account.
+Users added during a billing cycle are prorated. Existing collaborators will be prorated from the day they are given the user role of admin or editor. You will be billed for new collaborators you invite to Beegit from the day they activate their account.
+

@@ -32,6 +32,3 @@ We do not offer phone support at Beegit. We do offer all users support via email
 
 ### Where can I find your user agreement?
 Our user terms are available [here](https://beegit.com/userAgreement).
-
-### Where can I find your privacy policy
-You can find our privacy policy [here](https://beegit.com/privacy).

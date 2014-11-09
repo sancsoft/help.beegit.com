@@ -11,6 +11,6 @@ tags:
 ---
 
 ## What forms of payment do you accept?
-We accept all major credit or debit card types: Visa, MasterCard, American Express and Discover. 
+We accept major credit or debit card types: Visa, MasterCard, American Express and Discover. 
 
-We do not accept cash or personal checks. If you need to pay for an annual account and the only way you can pay is via business check, reach out to [support@beegit.com](mailto:support@beegit.com).
+We do not accept cash or personal checks. If you need to pay for your service on an annual basis, please contact us at [support@beegit.com](mailto:support@beegit.com). 

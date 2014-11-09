@@ -15,7 +15,7 @@ tags:
 ## How do I set up Beegit for my team?
 Beegit is a centralized location to write, manage and measure all of your content projects. To get started, create an account you, your organization or your business owns. Most teams do this with a house email account like an info@ address. It can also be a person's email address, if that's your preference. 
 
-Whoever creates this account will own all of the content in Beegit and will have the ability to control user roles, remove collaborators and delete projects. 
+Whoever creates this account will own all of the content in Beegit and will have the ability to control user roles, subscriptions, the global collaborator list and the decision to delete projects. 
 
 Once this account is created, you can add in collaborators to help with your projects or get started on your first project. 
 

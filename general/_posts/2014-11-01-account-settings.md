@@ -17,7 +17,7 @@ Once on the account settings page, you can change your personal account informat
 You can also update your password in the account settings. Be sure to hit `Update Password` when you've made your changes. 
 
 ### Where can I find my billing information? 
-You can find your billing information in your account settings in the [billing section](https://beegit.com/settings/billing). 
+You can find your billing information in your account settings in the [billing tab](https://beegit.com/settings/billing). 
 
 ### Can I change my username? 
 Your username is your unique identifier and cannot be changed in your account settings. If there is a problem with your username, please contact Beegit at [support@beegit.com](mailto:support@beegit.com). 

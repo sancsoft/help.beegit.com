@@ -172,7 +172,7 @@ ol {
 }
 
 .related-posts h3 {
-  padding-bottom: 12px;
+  padding-bottom: 14px;
 }
 
 .related-posts ul {
@@ -180,8 +180,8 @@ ol {
 }
 
 .related-posts li {
-  line-height: 14px;
-  font-size: 12px;
+  line-height: 16px;
+  font-size: 14px;
   font-weight: 400;
   list-style-type: none;
 }
@@ -203,8 +203,8 @@ ul.sidebar > .category {
 
 ul.sidebar li {
   list-style-type: none;
-  line-height: 14px;
-  font-size: 12px;
+  line-height: 16px;
+  font-size: 14px;
   padding: 4px 0;
 }
 

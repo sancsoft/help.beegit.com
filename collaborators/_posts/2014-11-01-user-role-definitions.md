@@ -24,7 +24,7 @@ Observers are meant to be passive watchers of a content project. They can see pr
 Editors are users with the power to help create content, but they have very limited power in the project settings. They can create files and folders, edit content on any file, make versions and submit comments. They cannot remove collaborators, delete a project or file or change project settings like the project name or color.
 
 ### Admin 
-Admins are both creators and managers in a content project. They can create and edit files, add users, change project settings like the name, short description and project color and make versions. They can also add or remove collaborators (including other admins) on the project level. They cannot delete a project.
+Admins are both creators and managers in a content project. They can create and edit files, change project settings like the name, short description and color, and make versions. They can also add or remove collaborators (including other admins) on the project level. They cannot delete a project.
 
 ### Owner 
 The owner of a project is the person or organization who created the project. They can set the global collaborator list, including collaborator roles, and remove anyone from the project. They can write, edit and change project settings, and they are the only one with the authority to delete a project. 
