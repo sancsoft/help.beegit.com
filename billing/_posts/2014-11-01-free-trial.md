@@ -11,7 +11,7 @@ tags:
 ---
 
 ## How does the free trial work?
-When you sign up for Beegit, you will have a 14-day unlimited free trial. During this trial you can create as many projects as you like and add in as many collaborators as you'd like. 
+When you sign up for Beegit, you will have a 14-day unlimited free trial. During this trial you can create as many projects you own as you like and add in as many collaborators as you'd like. 
 
 Throughout your free trial, there will be a notification banner at the top of the site reminding you how many days remain on your trial. You will also receive email reminders detailing how much time you have left. 
 
