@@ -12,7 +12,7 @@ tags:
 ---
 
 ## How do inline comments work?
-Inline comments let you select a section of text and create a comment tied to it. Your collaborators will see the comment in the text and any who have notification emails turned on will receive an email. You can also @mention a collaborator in a comment to send them a notification. 
+Inline comments let you select a section of text and create a comment tied to it. Your project collaborators will see the comment in the text and any who have notification emails turned on will receive an email. You can also @mention a project collaborator in a comment to send them a notification. 
 
 To make a comment, select a portion of text you want to comment on and click the comment button in the right-hand corner of the editor. You must highlight text to make a comment. After you write your comment, make sure you save it. Only the person who made the comment can edit or delete it.
 

@@ -10,7 +10,7 @@ tags:
 
 ---
 ## What do the colors next to projects on my dashboard mean? 
-A project in Beegit can be assigned one of seven colors. Most organizations use these colors to help indicate a priority or to help differentiate teams. For example, many teams make projects red when they are do very soon. Other teams select a color like to represent a team or a group. For example, they make their email marketing projects blue. 
+A project in Beegit can be assigned one of seven colors. These colors can be used to help indicate a priority or to help differentiate project types. One workflow might make projects red when they are do very soon. Another workflow might select a color they like to represent a project type. For example, they make their email marketing projects blue. 
 
 On your project dashboard, these colors help you quickly identify different projects. You can also sort the dashboard by colors to help find your projects. 
 

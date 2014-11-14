@@ -12,16 +12,16 @@ tags:
 ---
 
 ## How do I manage my email notifications for all projects?
-If you're a project owner, you can set the email notifications for everyone on your collaboration list by using the global Collaborators section on your dashboard. This will let you decide whether or not all of these users receive emails when a version is created or a comment is made. The default notification setting for both instances is not to send emails, but you can choose to turn them on for better project communication.
+If you're a project owner, you can set the email notifications for your team by using the team section on your dashboard. This will let you decide whether or not all of these your team members receive emails when a version is created or a comment is made. The default notification setting for both instances is not to send emails, but you can choose to turn them on for better project communication.
 
 ![Collaborators Notifications](https://s3.amazonaws.com/beegit-images/helpImages/collaborators-notifications.png)
 
-Regardless of your settings, anyone @mentioned in a version note or a comment will receive a notification email. 
+Regardless of your settings, any project collaborator @mentioned in a version note or a comment will receive a notification email. 
 
 Whether you are a project owner or a collaborator, you can change your notification preferences for versions and comments inside a specific project by visiting the settings tab in that project. 
 
-### Adding users to a project 
-You can add a collaborator to your collaborator list on your dashboard so they can be invited to any specific project. You can then add them to individual projects using the Collaborators section inside that project. Whenever you add a collaborator to a project, they are always notified via email. 
+### Adding in team members
+You can add team members on your dashboard so they can become available to collaborate on projects. You can then add them to individual projects using the Collaborators section inside that project. Whenever you add a collaborator to a project, they are always notified via email. 
 
 ### Inviting new users 
-You can add a new user to Beegit using their email address. If you invite a new user to their first project, they will receive an email saying they've been invited by you to collaborate on a project in Beegit.
+You can invite someone to your team using their email address. Once they are added to your team, they will become available to add as a collaborator on their first project. They will then receive an email saying they've been invited by you to collaborate on your project in Beegit.

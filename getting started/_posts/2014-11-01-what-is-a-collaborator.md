@@ -12,12 +12,12 @@ tags:
 ---
 
 ## What is a collaborator? 
-A collaborator is someone who works on any project with you. If you're the owner of a project, you can set their user role to observer, editor or admin. You can also decide on their default email notification settings. Project owners will be required to pay for the subscriptions of their collaborators. 
+A collaborator is someone who works on any project with you. If you're the owner of a project, you can set their user role to observer, editor or admin. You can also decide on their default email notification settings. Project owners pay for team members who collaborate on their projects.
 
 If you've been invited to a project, your user role has been set by the project owner. 
 
-### Making a project team 
-If you have a team you work with on every project you own, you can set those users to automatically be added to every new project you create in the global collaborators section on your dashboard. 
+### Setting up your team
+If you have people you work with on every project you own, you can set those users to automatically be added to every new project you create in the team section on your dashboard. 
 
-### Adding collaborators to a project 
-If there are collaborators you only want to involve in certain projects, add them using the global collaborator section on your dashboard. Set their role and then choose no when asked if you want to add them to every project. After you add that user, they will be available on your global collaborator list and you can invite them to any specific project inside that project's collaborator section.
+### Adding team members to collaborate on a project 
+If there are team members you only want to collaborate with on certain projects, you must first add them to your team in the team section of your dashboard. Set their role and then choose no when asked if you want to add them to every project. After you add that user, they will become available to add in the collaborators section of each project.

@@ -17,6 +17,6 @@ If you own all of the projects you work on, the owner view won't change for you.
 
 ![Dashboard List](https://s3.amazonaws.com/beegit-images/helpImages/dashboard-list.png)
 
-Project owners are the ones who create collaborator lists for accounts and, ultimately, pay for those collaborators.
+Project owners are the ones who can add in team members and, ultimately, pay for them to collaborate on projects.
 
-If you've been added to a collaborator list for a user but not to any of their projects, you'll see that owner on your dashboard but you won't have access to any of their projects. You'll need to contact them for access to a project. 
+If you've been added to a project owner's team but not to any of their projects, you'll see that owner on your dashboard but you won't have access to any of their projects. You'll need to contact them for access to a project. 
