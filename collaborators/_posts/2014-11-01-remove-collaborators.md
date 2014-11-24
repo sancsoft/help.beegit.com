@@ -18,7 +18,7 @@ If you have a team member you would like to remove from all your projects, you c
 
 ![Collaborators Remove](https://s3.amazonaws.com/beegit-images/helpImages/collaborators-remove.png)
 
-After you remove a team member, all the content they added, every version they created and any comments they made will still exist for each project.
+After you remove a team member, all the content they added, every version they created, and any comments they made will still exist for each project.
 
 ### Removing a collaborator from a single project 
 A project owner or admin can remove a project collaborator's access from an individual project. To do so, visit the collaborators tab for a project and hit the red `Remove` button next to that collaborator's name. You will get a verification message that will confirm you want this collaborator removed. If you confirm, that collaborator will no longer have access to the project. 

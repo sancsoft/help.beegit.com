@@ -14,14 +14,14 @@ tags:
 
 ---
 
-## How do I add team members to collaborate on all my projects? 
+## How do I add team members as collaborators on all my projects? 
 You can specify team members that you'd like to automatically add to every new project you create. 
 
 You can do this in the team section of your dashboard. 
 
 ![Collaborators List](https://s3.amazonaws.com/beegit-images/helpImages/collaborators-list.png)
 
-This is your list of team members that you can add to collaborate with on projects. Here, you can add new team members and see any you already have added. You can add both new and update existing team members to be automatically included on all your projects. 
+This is your list of team members that you can add to collaborate with you on projects. Here, you can add new team members and see any you already have added. You can add both new and update existing team members to be automatically included on all your projects. 
 
 ### Adding team members to collaborate on all projects 
 To add a team member that you'd like to automatically add to all projects you won, start by hitting the `Add Team Member` button in the team section of your dashboard. 

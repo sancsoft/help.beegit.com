@@ -12,7 +12,7 @@ tags:
 ---
 
 ## How do comment notifications work? 
-When someone makes a comment on a project, any cproject collaborator who has their default notifications set to on will get an email that a comment was made that will include the text of that comment. 
+When someone makes a comment on a project, any project collaborator who has their default notifications set to on will get an email that a comment was made that will include the text of that comment. 
 
 ![Editor Comment Mention](https://s3.amazonaws.com/beegit-images/helpImages/editor-comment-mention.png)
 

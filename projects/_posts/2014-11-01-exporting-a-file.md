@@ -23,5 +23,10 @@ You can export your content into the following formats:
 * InDesign 
 * ePub 
 
+You can also copy HTML directly to your clipboard by selecting that option in the editor. 
+
+![Editor Export](https://s3.amazonaws.com/beegit-images/helpImages/editor-export-html.png) 
+
+
 ### Exporting a project or set of selected files 
 For now, you can only export one file at a time out of Beegit using the export feature. A project compile option for export is coming in a future release of Beegit. If your organization has a request for help exporting a large project from Beegit, please contact us at [support@beegit.com](mailto:support@beegit.com). 

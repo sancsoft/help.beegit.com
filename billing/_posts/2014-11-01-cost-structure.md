@@ -13,13 +13,9 @@ tags:
 ---
 
 ## How do you charge for Beegit?
-Project owners in Beegit are charged for their subscription and the number of team members they have with a user role of editor or admin. The cost is $10/month per team member. They are not charged for the number of projects they create or the amount of content they create. 
+Project owners in Beegit are charged monthly for the [subscription plan](https://beegit.com/pricing) that they select. They are not charged for the number of projects they create or the amount of content they create. 
 
-A subscription will be charged $10/month for each team member that holds the role of editor or admin on the team list, even if they are set to observer status on one or select projects. 
-
-A subscription will not be charged for any team member who exclusively holds the role of observer. So an account with with an owner, 3 editors and 3 observers would be charged $40/month: $10 for the project owner, $30 for the editors and $0 for the observers. 
-
-As new team members are added during the billing cycle, the charge for their use will be prorated. 
+Each plan comes with a soft cap on active users. That means that if you have the Business plan, which allows for 10 active users, and you go over that, you will not immediately be charged and your service will not be interrupted. If you stay at the larger team size for a full billing cycle, we will reach out to you and ask you to upgrade your plan.
 
 ### Is there an option for an annual plan or a custom price for larger teams? 
 We can create a custom plan for annual payment or teams larger than 20. Email us at [support@beegit.com](mailto:support@beegit.com) and we'll get you started. 

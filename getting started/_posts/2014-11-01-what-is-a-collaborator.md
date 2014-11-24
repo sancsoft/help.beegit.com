@@ -12,7 +12,7 @@ tags:
 ---
 
 ## What is a collaborator? 
-A collaborator is someone who works on any project with you. If you're the owner of a project, you can set their user role to observer, editor or admin. You can also decide on their default email notification settings. Project owners pay for team members who collaborate on their projects.
+A collaborator is someone you add to your team to work on  a project or projects with you. If you're the owner of a project, you can set their user role to observer, editor or admin. You can also decide on their default email notification settings. Project owners pay for team members who collaborate on their projects.
 
 If you've been invited to a project, your user role has been set by the project owner. 
 

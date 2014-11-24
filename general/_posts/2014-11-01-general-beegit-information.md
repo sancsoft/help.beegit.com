@@ -28,7 +28,7 @@ Currently, there is no offline writing mode for Beegit. Writing in the system re
 An offline writing mode is planned for a future release of Beegit. 
 
 ### Do you provide phone support? 
-We do not offer phone support at Beegit. We do offer all users support via email 8:30a-5:30p EST Monday through Friday. We also schedule regular group demo training sessions for paying customers. Please reach out to [support@beegit](mailto:support@beegit.com) to join a demo session. 
+We do not offer phone support. We do offer all users support via email 8:30a-5:30p EST Monday through Friday. We also schedule regular group demo training sessions for paying customers. Please reach out to [support@beegit](mailto:support@beegit.com) to join a demo session. 
 
 ### Where can I find your user agreement?
 Our user terms are available [here](https://beegit.com/userAgreement).

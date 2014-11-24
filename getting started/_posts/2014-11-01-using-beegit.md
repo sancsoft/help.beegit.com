@@ -23,6 +23,7 @@ Beegit helps teams manage any writing project that includes multiple people. It'
 
 * Print/web publications 
 * Communications documents 
+* Website content
 * PR copy 
 * Client copy 
 * Content marketing projects 
