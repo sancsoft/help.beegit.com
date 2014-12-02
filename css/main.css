@@ -1,6 +1,12 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+
+.homeVideo img {
+  max-width: 600px !important;
+  max-height: 333px !important;
+}
+
 * {
   margin: 0;
   padding: 0;
