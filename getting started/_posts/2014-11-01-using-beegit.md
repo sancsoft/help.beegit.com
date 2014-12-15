@@ -12,7 +12,7 @@ tags:
 
 ## Who uses Beegit and why?
 
-Beegit is the content-first project management solution that helps teams of any size write and manage their workflow in one place. 
+Beegit is the easiest way for teams to write together. 
 
 Anytime you need to collaborate on a writing project, Beegit will help manage the process from start to finish, keeping everything in a centralized location so everyone is on the same page. It will also give you visibility that will keep the project on track and insight after the project to make you even better next time. 
 

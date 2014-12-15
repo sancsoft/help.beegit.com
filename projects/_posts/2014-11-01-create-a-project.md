@@ -12,7 +12,7 @@ tags:
 ---
 
 ## How do I create a project?
-To make a project to house all your content on an account you own, you can hit the [create a project](https://beegit.com/new) link in the top navigation of the site. You can also hit the `Create Project` button on you dashboard to create a project you own. 
+To make a project to house all your content on an account you own or are an admin on, you can hit the [create a project](https://beegit.com/new) link in the top navigation of the site. You can also hit the `Create Project` button on you dashboard to create a project you own. 
 
 ### Setting up a project 
 When you create a new project, you'll be able to set up some basics that will let your project collaborators know what they're working on.

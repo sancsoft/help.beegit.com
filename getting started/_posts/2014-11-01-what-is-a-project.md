@@ -11,4 +11,4 @@ tags:
 ---
 
 ## What is a project?
-A project is a place to organize all your content, communications and insight around an objective, goal or deadline. A project could be an issue of a publication, copy for a client, content for a website or a shared document.
+A project is a place to organize all your content, communications and insight around an objective, goal or deadline. A project is anything you collaborate on, like a shared document, copy for a client, website content or an email campaign.

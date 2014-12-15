@@ -14,7 +14,7 @@ tags:
 Your project dashboard lets you quickly sort through every content project you're involved in - whether you own it or are a collaborator on it. You can sort by project owner, by specific details within an owner's projects or search for projects on your dashboard. 
 
 ### View and sort by project owner 
-If you are involved in projects from multiple owners (for example if you have your own projects and projects for organizations or teammates), you can sort through all the projects you're on by selecting the project owner. You can do this by scrolling through the owner account names on the right-hand side of the dashboard. 
+If you are involved in projects from multiple owners (for example, if you have your own projects and projects for organizations or teammates), you can sort through all the projects you're on by selecting the project owner. You can do this by scrolling through the owner account names on the right-hand side of the dashboard. As you look through this view, you'll also be able to see your user role for each owner's account. 
 
 ### Sorting by project details 
 You can sort projects inside a set of owner's projects through multiple details. You can sort by last modified, oldest, project color, or alphabetically from A-Z or Z-A. 

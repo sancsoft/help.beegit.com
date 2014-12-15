@@ -13,7 +13,7 @@ tags:
 ## What is the project owner view? 
 Your dashboard in Beegit can be sorted and viewed by project owner. 
 
-If you own all of the projects you work on, the owner view won't change for you. If you collaborate with other project owners (for example, if you are a collaborator on a company or organization's subscription), you'll be able to switch through owners to view the projects you have access to. 
+If you own all of the projects you work on, the owner view won't change for you. If you collaborate with other project owners (for example, if you are a collaborator on a company or organization's subscription), you'll be able to switch through owners to view the projects you have access to. As you view other project owners, you'll see your access level to their projects displayed. 
 
 ![Dashboard List](https://s3.amazonaws.com/beegit-images/helpImages/dashboard-list.png)
 
