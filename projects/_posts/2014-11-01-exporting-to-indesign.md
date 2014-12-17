@@ -3,7 +3,7 @@
 title: How do I export to InDesign?
 layout: post
 permalink: how-do-i-export-to-InDesign
-sequence: 7
+sequence: 70
 tags:
 - projects
 - export

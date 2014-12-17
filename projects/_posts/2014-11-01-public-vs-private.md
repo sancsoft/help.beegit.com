@@ -3,7 +3,7 @@
 title: What is the difference between a public and a private project?
 layout: post
 permalink: what-is-the-difference-between-a-public-and-private-project 
-sequence: 2
+sequence: 20
 tags:
 - general
 - projects

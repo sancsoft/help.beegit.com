@@ -3,7 +3,7 @@
 title: How do I delete a project?
 layout: post
 permalink: how-do-i-delete-a-project
-sequence: 3
+sequence: 30
 tags:
 - projects
 - delete

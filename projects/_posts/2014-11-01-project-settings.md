@@ -3,7 +3,7 @@
 title: What are project settings?
 layout: post
 permalink: what-are-project-settings
-sequence: 5
+sequence: 50
 tags:
 - projects
 - colors
