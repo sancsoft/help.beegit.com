@@ -3,7 +3,7 @@
 title: What do the project colors do?
 layout: post
 permalink: what-do-the-project-colors-do
-sequence: 40
+sequence: 60
 tags:
 - projects
 - colors

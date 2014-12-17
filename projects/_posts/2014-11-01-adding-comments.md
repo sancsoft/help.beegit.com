@@ -3,6 +3,7 @@
 title: How do inline comments work?
 layout: post
 permalink: how-do-inline-comments-work
+sequence: 40
 category: Projects 
 tags:
 - projects

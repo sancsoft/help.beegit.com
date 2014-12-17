@@ -3,7 +3,7 @@
 title: How do I export my content?
 layout: post
 permalink: how-do-i-export-my-content
-sequence: 60
+sequence: 80
 tags:
 - projects
 - export

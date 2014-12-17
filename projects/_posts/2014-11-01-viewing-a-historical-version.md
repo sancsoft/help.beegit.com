@@ -3,7 +3,7 @@
 title: How do I view a historical version?
 layout: post
 permalink: viewing-a-historical-version
-sequence: 21
+sequence: 10
 tags:
 - projects
 - versions
@@ -17,12 +17,12 @@ To browse a historical version of your files, navigate to the Versions tab in yo
 
 ![Browse Version Files Button](https://s3.amazonaws.com/beegit-images/helpImages/version-history.png)
 
-## Working with historical versions and files
+### Working with historical versions and files
 Once you've entered historical version mode, you'll be navigated back to the same file tree you're familiar with. The difference is that the file tree is now showing you a set of read-only files (you can't change the past) of what your project files looked like at the time of the version you selected. The header area also indicates that you're in historical version mode and gives you the name of the person who made this version, along with the date it was committed. Navigate around the file tree and enjoy your old file content.
 
 ![Historical Version Mode](https://s3.amazonaws.com/beegit-images/helpImages/version-history-browse.png)
 
-## Leaving historical mode
+### Leaving historical mode
 When you're ready to leave historical mode and switch back to the current version of your project, use the `Switch to Current Version` button under the main navigation.
 
 

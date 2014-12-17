@@ -3,7 +3,7 @@
 title: How do I create a project?
 layout: post
 permalink: how-do-i-create-a-project
-sequence: 10
+sequence: 20
 tags:
 - projects
 - comments

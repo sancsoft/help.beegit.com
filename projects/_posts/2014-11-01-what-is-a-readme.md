@@ -3,7 +3,7 @@
 title: What is a README?
 layout: post
 permalink: what-is-a-readme
-sequence: 90
+sequence: 100
 tags:
 - projects
 - info
