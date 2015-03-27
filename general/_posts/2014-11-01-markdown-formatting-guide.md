@@ -141,8 +141,10 @@ Some text with a footnote label [^1].
 ```
 
 ```
-[^1]: The footnote content is added immediately after te footnote label, but appears at the end of the document.
+[^1]: Here is the footnote content.
 ```
+
+The footnote content is added immediately after the footnote label, but appears at the end of the document.
 
 ### Tables
 To make a table, use vertical bar characters to denote the content that goes into each cell. Start with column headers, separate with a row of cells with dashes, then add further rows of cells.
