@@ -39,7 +39,7 @@ You can add a strikethrough to any text by putting `~~` around the text you want
 ```
 
 ### Dashes
-Beegit supports en-dashes and em-dashes.
+Beegit supports `--` en-dashes and `---` em-dashes.
 
 ```
 -- En-dash
