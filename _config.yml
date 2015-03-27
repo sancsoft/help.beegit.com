@@ -8,3 +8,6 @@ url: "help.beegit.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+kramdown: 
+  input: GFM

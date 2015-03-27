@@ -12,11 +12,11 @@ tags:
 ---
 
 ## How do I manage my email notifications for all projects?
-If you're a project owner, you can set the email notifications for your team by using the team section on your dashboard. This will let you decide whether or not all of these your team members receive emails when a version is created or a comment is made. The default notification setting for both instances is not to send emails, but you can choose to turn them on for better project communication.
+If you're a project owner, you can set the email notifications for your team by using the team section on your dashboard. This will let you decide whether or not all of these your team members receive emails when a new revision is created or a comment is made. The default notification setting for both instances is not to send emails, but you can choose to turn them on for better project communication.
 
 ![Collaborators Notifications](https://s3.amazonaws.com/beegit-images/helpImages/collaborators-notifications.png)
 
-Regardless of your settings, any project collaborator @mentioned in a version note or a comment will receive a notification email. 
+Regardless of your settings, any project collaborator directly mentioned in a version note (with an "@" symbol) or a comment will receive a notification email. 
 
 Whether you are a project owner or a collaborator, you can change your notification preferences for versions and comments inside a specific project by visiting the settings tab in that project. 
 

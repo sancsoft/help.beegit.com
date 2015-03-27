@@ -24,9 +24,9 @@ You can do this in the team section of your dashboard.
 This is your list of team members that you can add to collaborate with you on projects. Here, you can add new team members and see any you already have added. You can add both new and update existing team members to be automatically included on all your projects. 
 
 ### Adding team members to collaborate on all projects 
-To add a team member that you'd like to automatically add to all projects you won, start by hitting the `Add Team Member` button in the team section of your dashboard. 
+Start by hitting the `Add Team Member` button in the team section of your dashboard. 
 
-Start by typing in their Beegit username or email address. If they are new to Beegit, simply enter their email address to invite them. Next, you'll set a role for them - observer, editor or admin. 
+Type in their Beegit username or email address. If they are new to Beegit, simply enter their email address to invite them. Next, you'll set a role for them - observer, editor or admin. 
 
 After that, you can decide if you want to automatically add them as a collaborator on all your new projects. If this is a someone that you collaborate with regularly, you can select yes and they will then be added to every new Beegit project you create. 
 

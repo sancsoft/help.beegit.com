@@ -10,7 +10,7 @@ tags:
 
 ---
 
-## Removing collaborators
+## How do I remove collaborators?
 Collaborators can be removed globally by project owners by removing them from your team. They can be removed from projects by visiting the collaborators section of the project you'd like to remove them from.
 
 ### Removing a collaborator from all my projects 

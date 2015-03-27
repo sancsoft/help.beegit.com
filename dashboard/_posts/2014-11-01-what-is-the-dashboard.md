@@ -9,6 +9,7 @@ tags:
 - projects
 
 ---
+
 ## What is the dashboard? 
 The dashboard is your landing place when you log into Beegit and it allows you to view your projects and projects you collaborate on.
 

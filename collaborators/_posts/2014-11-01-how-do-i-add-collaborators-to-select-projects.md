@@ -23,7 +23,7 @@ You'll also need to set this collaborator's role, choosing from observer, editor
 
 ![Project Collaborators User](https://s3.amazonaws.com/beegit-images/helpImages/project-collaborators-user.png) 
 
-When you're finished, be sure to click the green `Add Collaborator` button. Once the project collaborator has been added, the project will appear in their dashboard the next time they log in. You will also see their name and user role in the project collaborator list. 
+When you're finished, be sure to click the green `Add Collaborator` button. Once the project collaborator has been added, the project will appear in their dashboard the next time they log in. You will also see their username and role in the project collaborator list. 
 
 If you want to add this team member to every project you create, use the team section of your dashboard. 
 

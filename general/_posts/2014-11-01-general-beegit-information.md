@@ -9,6 +9,7 @@ tags:
 - info
 
 ---
+
 ## General Beegit information
 Here is some general information about Beegit.
 
@@ -28,7 +29,13 @@ Currently, there is no offline writing mode for Beegit. Writing in the system re
 An offline writing mode is planned for a future release of Beegit. 
 
 ### Do you provide phone support? 
-We do not offer phone support. We do offer all users support via email 8:30a-5:30p EST Monday through Friday. We also schedule regular group demo training sessions for paying customers. Please reach out to [support@beegit](mailto:support@beegit.com) to join a demo session. 
+We offer phone support, but only for owners and collaborators on a Gold Pro plan. 
+
+### Do you offer chat/email support?
+All Beegit team plans include chat/email support. Pro plans include priority chat/email support. Free individual accounts include chat/email support, but response times vary and are considered a low priority.
+
+### Do you offer group training?
+We conduct free kickoff group training sessions for teams on our Pro plans. If you are not on a pro plan but would like to inquire about group training, please reach out to [support@beegit](mailto:support@beegit.com) for more information. 
 
 ### Where can I find your user agreement?
 Our user terms are available [here](https://beegit.com/userAgreement).

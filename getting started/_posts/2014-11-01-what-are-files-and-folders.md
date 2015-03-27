@@ -11,7 +11,6 @@ tags:
 ---
 
 ## What are files and folders?
-
 Files and folders are the fundamental elements of the files section. They can be easily created, renamed and deleted using the icons in the file toolbar above the file tree. Files and folders can be nested via drag and drop. 
 
 ### Working with files 

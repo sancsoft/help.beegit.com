@@ -19,7 +19,7 @@ Regardless of your user role, you can manage your email notification settings fo
 
 ![Project Notifications](https://s3.amazonaws.com/beegit-images/helpImages/project-notifications.png)
 
-Regardless of your settings, any project collaborator @mentioned in a version note or a comment will receive a notification email.
+Regardless of your settings, any project collaborator @directly mentioned with an "@" symbol  in a version note or a comment will receive a notification email.
 
 ### Adding collaborators to a project 
 When you add a team member to collaborate on a project, they are always notified via email. 

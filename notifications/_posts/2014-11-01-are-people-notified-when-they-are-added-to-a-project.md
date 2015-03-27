@@ -2,7 +2,7 @@
 
 title: Are people notified when they are added to a project?
 layout: post
-permalink: Are-people-notified-when-they-are-added-to-a-project
+permalink: are-people-notified-when-they-are-added-to-a-project
 sequence: 4
 tags:
 - notifications

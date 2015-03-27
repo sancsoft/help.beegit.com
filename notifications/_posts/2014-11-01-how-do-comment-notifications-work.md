@@ -16,4 +16,4 @@ When someone makes a comment on a project, any project collaborator who has thei
 
 ![Editor Comment Mention](https://s3.amazonaws.com/beegit-images/helpImages/editor-comment-mention.png)
 
-If the person making the comment wants to send a notification for specific project collaborators, they can use an @mention, which will send an email notification directed at the collaborators mentioned. When a user starts to type an @mention, they will get a list of all the project collaborators to select which ones they want to mention. 
+If the person making the comment wants to send a notification for specific project collaborators, they can mention them by typing an "@" symbol and selecting the people they'd like to notify. This will send an email notification directed at the collaborators mentioned. When a user starts to type an "@" symbol inside a comment, they will get a list of all the project collaborators to select which ones they want to mention. 

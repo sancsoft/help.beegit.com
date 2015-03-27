@@ -9,8 +9,9 @@ tags:
 - user settings
 
 ---
+
 ## How do I reset my password? 
-You can reset your password by logging in and visiting your [account settings](https://beegit.com/settings). Your account settings can be found by clicking on your username and avatar in the top-right corner of the navigation bar. 
+You can reset your password by logging in and visiting your [account settings](https://beegit.com/settings). Your account settings can be found by hovering over your username and avatar in the top-right corner of the navigation bar. 
 
 Once in your account settings, scroll down the page to the Change Password section. Type in your current password, you new password and then confirm your new password. When you're finished, be sure to click the Update Password button. 
 

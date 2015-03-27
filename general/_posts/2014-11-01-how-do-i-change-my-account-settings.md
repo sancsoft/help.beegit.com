@@ -9,8 +9,9 @@ tags:
 - user settings
 
 ---
+
 ## How do I change my account settings? 
-You can update your account details by going to the [account settings](https://beegit.com/settings) section. To get there, click on your username and avatar in the top right corner of the site when you're logged in. 
+You can update your account details by going to the [account settings](https://beegit.com/settings) section. To get there, hover over your username and avatar in the top right corner of the site when you're logged in. 
 
 Once on the account settings page, you can change your personal account information. Be sure to hit `Save` when you've made your changes. 
 

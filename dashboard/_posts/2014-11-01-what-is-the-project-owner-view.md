@@ -1,8 +1,8 @@
 ---
 
-title: What is a project owner?
+title: What is the project owner view?
 layout: post
-permalink: what-is-a-project-owner
+permalink: what-is-the-project-owner-view
 sequence: 4
 tags:
 - dashboard
@@ -10,6 +10,7 @@ tags:
 - projects
 
 ---
+
 ## What is the project owner view? 
 Your dashboard in Beegit can be sorted and viewed by project owner. 
 

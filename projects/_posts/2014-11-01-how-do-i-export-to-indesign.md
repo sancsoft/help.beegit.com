@@ -2,7 +2,7 @@
 
 title: How do I export to InDesign?
 layout: post
-permalink: how-do-i-export-to-InDesign
+permalink: how-do-i-export-to-indesign
 sequence: 90
 tags:
 - projects

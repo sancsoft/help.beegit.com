@@ -26,6 +26,6 @@ You can customize your writing experience inside the editor to better fit your w
 ![Editor Writing Mode](https://s3.amazonaws.com/beegit-images/helpImages/editor-writing-mode.png)
 
 ### Using Markdown 
-Markdown is a plain formatting syntax designed to optimize content for production. Markdown is easy to learn, but there is a guide to help get you started. Look for the question mark icon inside the file tree. Clicking on this will display a Markdown formatting guide. 
+Markdown is a plain formatting syntax designed to optimize content for production. Markdown is easy to learn, but there is a basic guide to help get you started. Look for the question mark icon inside the file tree. Clicking on this will display a Markdown formatting guide. 
 
 ![Markdown Help](https://s3.amazonaws.com/beegit-images/helpImages/editor-markdown-help.png)
