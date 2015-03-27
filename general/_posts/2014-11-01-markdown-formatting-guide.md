@@ -117,7 +117,7 @@ This is `inline code`
 ```This is a fenced code block```
 ```
 
-### LaTex Mathematical Expressions
+### LaTeX Mathematical Expressions
 You can render LaTeX mathematical expressions inside Beegit using MathJax. We support both math blocks and inline math.
 
 ```
