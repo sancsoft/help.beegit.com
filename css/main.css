@@ -225,6 +225,7 @@ ol {
 ul.sidebar {
   list-style-type: none;
   margin-top: 0;
+  font-weight: 400;
 }
 
 ul.sidebar > .category {
@@ -267,13 +268,21 @@ li.sidebar-link.active {
 /* media queries */
 /* ----------------------------------------------------------*/
 
+.navbar-brand {
+  padding: 0 0 0 15px;
+  height: auto;
+}
 
-.navbar-brand span{
+.navbar-form {
+  margin: 0;
+}
+
+.navbar-brand div{
   color: #fff;
   font-size: 17px;
-  line-height: 82px;
   opacity: 0.5;
   margin-left: 2px;
+  display: inline-block;
 }
 
 @media screen and (max-width: 768px) {
