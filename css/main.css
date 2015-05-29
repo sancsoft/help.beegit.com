@@ -228,6 +228,15 @@ ul.sidebar {
   font-weight: 400;
 }
 
+.btn-primary {
+  background-color: #2a7abf;
+  border-color: #256daa;
+}
+
+.navbar-form {
+  padding: 0 !important;
+}
+
 ul.sidebar > .category {
   font-weight: 400;
   font-size: 14px;
