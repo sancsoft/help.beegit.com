@@ -27,7 +27,7 @@ Once you've created your Beegit account, you can log in and [create a project](h
 ### Invite and manage team members 
 Most content projects require other people to help create, edit, revise or approve the work. Once you have your account created, you can add in your team members to collaborate on all of your projects or to a specific project. 
 
-You can manage your team or department using the [team tab](https://beegit.com/team) in the upper right side of your dashboard. You can set team members to be added to every new project you create and set their user roles to observer, editor or admin. You can also set their default email notifications here. You can add team members who already have a Beegit account or you can invite them by typing in their email address. **Note: once team members are added to this list, they will become available to be added as a collaborator on any projects that you own.**
+You can manage your team or department using the team tab in the upper right side of your dashboard. You can set team members to be added to every new project you create and set their user roles to observer, editor or admin. You can also set their default email notifications here. You can add team members who already have a Beegit account or you can invite them by typing in their email address. **Note: once team members are added to this list, they will become available to be added as a collaborator on any projects that you own.**
 
 
 
